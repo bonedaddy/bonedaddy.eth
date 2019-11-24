@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/postables
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bonedaddy.eth.link
+  * I am postables (https://keybase.io/postables) on keybase.
+  * I have a public key ASCKPJVSjaj2JkByCJSXsRfe6YhHMAhJcYnQm7YQwboE4go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b8c731613e6d33845dccf24654f856a54a34f3f8eae1dde012541f8fe310570a0a",
+      "host": "keybase.io",
+      "kid": "01208a3c95528da8f6264072089497b117dee988473008497189d09bb610c1ba04e20a",
+      "uid": "50bee889c2ced580229739a24197ed19",
+      "username": "postables"
+    },
+    "merkle_root": {
+      "ctime": 1574287357,
+      "hash": "cce445661404c3c481895267b569818dcc43b1293bf7fed4754b30935807013ff40656e5ddb045c6d3068a2a92094519c514a0341a55e365e7ecef7dc1ca3e82",
+      "hash_meta": "54710ed78f932145405fe4b45d2d53cacabcc00f573a4b80ea8f2bd5c79ed66f",
+      "seqno": 10368629
+    },
+    "service": {
+      "entropy": "sni+wYguNE+87qHtrj2r7PZS",
+      "hostname": "bonedaddy.eth.link",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574287364,
+  "expire_in": 504576000,
+  "prev": "5dae138b78b9960c533c41562b755f0e3aea1f62f55c10d5950f0984a9c338d9",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgijyVUo2o9iZAcgiUl7EX3umIRzAISXGJ0Ju2EMG6BOIKp3BheWxvYWTESpcCJcQgXa4Ti3i5lgxTPEFWK3VfDjrqH2L1XBDVlQ8JhKnDONnEIMFHh/Rm9Y0wIMJdk+Np0OsfxyS3fzoNdh87sE4Oj/H/AgHCo3NpZ8RAX21BZfcVDCeVP+CIRGpvSmhsC148fBRkKXA+qt288BGjbL9XgdtJRgauriwYP1gEPd+GP6uSpDE8PA0x8aTZBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINWlDqc16le6k7gWHpIobvxNcxBFrQyZUvXv3WTVNGa/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/postables
+
+==================================================================
