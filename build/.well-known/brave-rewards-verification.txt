@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: eth.link
+Token: d4758fee8e226e53c4f22236a59bd685fa0d77b7490c9a94ef6bb4ddde5ed1ee
